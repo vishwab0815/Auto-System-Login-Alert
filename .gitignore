@@ -1,0 +1,13 @@
+# Secrets / local config — never commit real keys
+.env
+*.env
+
+# Runtime state and logs
+last_error.log
+last_send*.txt
+*.log
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.vs/
